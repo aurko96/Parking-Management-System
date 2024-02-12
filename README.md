@@ -36,6 +36,23 @@ This parking bill is generated depending upon the time the car is parked and the
 
 ![image](https://github.com/aurko96/Parking-Management-System/assets/17502087/35e1783b-8618-47e3-82ec-944d8d58911c)
 
+**Context Diagram**
+
+![Context Diagram](https://github.com/aurko96/Parking-Management-System/assets/17502087/43d0197b-1694-4802-a315-ed0b3f7b3eac)
+
+![Diagram 0](https://github.com/aurko96/Parking-Management-System/assets/17502087/6a1654b2-6955-4e0f-8be8-44602468c5d9)
+
+
+**Sequence Diagram**
+
+![sequence1](https://github.com/aurko96/Parking-Management-System/assets/17502087/bcb8d515-5457-4d66-84ac-2984dcd7dedd)
+
+![sequence2](https://github.com/aurko96/Parking-Management-System/assets/17502087/42dfdfcb-db2a-421f-8b79-cf06ed87474c)
+
+![sequence3](https://github.com/aurko96/Parking-Management-System/assets/17502087/9a728c8c-835c-43a1-9eeb-3295bf6fe40a)
+
+
+
 
 
 
